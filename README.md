@@ -13,4 +13,5 @@ Technologies:
 - OpenCV
 
 Goal:
-Build a simple object detection application using AI.
+Build a simple object detection application using AI
+
