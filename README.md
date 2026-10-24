@@ -1,4 +1,3 @@
-<img width="1910" height="1710" alt="image" src="https://github.com/user-attachments/assets/e5376eaa-fd8e-4d5b-bb80-06abdf4bc3fd" />YOLO Object Detection
 
 Project Description
 
