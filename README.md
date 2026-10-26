@@ -4,10 +4,7 @@ Project Description
 Build an object detection application using YOLO and Python to identify and classify objects in images. This project explores computer vision techniques and demonstrates how artificial intelligence can be used for object detection.
 
 Technologies
-
-Python
-
-YOLO
+u
 
 OpenCV
 
