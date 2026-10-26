@@ -5,9 +5,7 @@ Build an object detection application using YOLO and Python to identify and clas
 
 Technologies
 
-Python
-
-YOLO
+Pytl
 
 OpenCV
 
