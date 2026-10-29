@@ -11,4 +11,4 @@ Computer Vision
 
 Goal
 
-Develop a simple object detection application and gain practical experience with AI, image processing, and computer vision.
+Develop a simple object detection application and gain practical experience with AI, image processing, and computer vision
