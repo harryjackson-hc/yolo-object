@@ -2,7 +2,7 @@ YOLO Object Detection
 
 This project explores object detection using YOLO and Python.
 
-Features:
+Features:adf
 - Detect objects in images and videos.
 - Identify objects such as people, cars, and animals.
 - Learn the basics of computer 
